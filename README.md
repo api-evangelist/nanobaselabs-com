@@ -1,4 +1,4 @@
-# nanobaselabs-com
+# NanoBase™
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,133 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-nanobaselabs-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://nanobaselabs.com/
+Pensive Beauty® Nanoscience Labs, operating as NanoBase™, is a boutique cosmetic research and development company specializing in tri‑domain nano‑colloidal raw materials. With fewer than 25 staff, it runs a 9,000 sq ft manufacturing facility across two locations, delivering innovative nanoscience solutions for beauty products.
+
+**Areas:** Cosmetics · Nanoscience · Research · Manufacturing · Beauty
+
+## NanoBase™ on APIs.io
+
+Everything profiled for NanoBase™ is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/nanobaselabs-com/](https://apis.io/providers/nanobaselabs-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (8)
+
+- [NanoBase™ Account API](https://apis.io/apis/nanobaselabs-com/nanobaselabs-com-account-api/) — The Account API from NanoBase™ — 1 operation(s) for account.
+- [NanoBase™ AI API](https://apis.io/apis/nanobaselabs-com/nanobaselabs-com-ai-api/) — The Ai API from NanoBase™ — 3 operation(s) for ai.
+- [NanoBase™ Changelog API](https://apis.io/apis/nanobaselabs-com/nanobaselabs-com-changelog-api/) — The Changelog API from NanoBase™ — 1 operation(s) for changelog.
+- [NanoBase™ Check API](https://apis.io/apis/nanobaselabs-com/nanobaselabs-com-check-api/) — The Check API from NanoBase™ — 1 operation(s) for check.
+- [NanoBase™ Inci API](https://apis.io/apis/nanobaselabs-com/nanobaselabs-com-inci-api/) — The Inci API from NanoBase™ — 1 operation(s) for inci.
+- [NanoBase™ Ingredients API](https://apis.io/apis/nanobaselabs-com/nanobaselabs-com-ingredients-api/) — The Ingredients API from NanoBase™ — 1 operation(s) for ingredients.
+- [NanoBase™ Lib API](https://apis.io/apis/nanobaselabs-com/nanobaselabs-com-lib-api/) — The Lib API from NanoBase™ — 1 operation(s) for lib.
+- [NanoBase™ Terms API](https://apis.io/apis/nanobaselabs-com/nanobaselabs-com-terms-api/) — The Terms API from NanoBase™ — 1 operation(s) for terms.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [NanoBase™ Agentic Access](https://apis.io/agentic-access/nanobaselabs-com/nanobaselabs-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [Changelog](https://apis.io/schemas/nanobaselabs-com/nanobaselabs-com-changelog/)
+- [CheckResult](https://apis.io/schemas/nanobaselabs-com/nanobaselabs-com-check-result/)
+- [Line](https://apis.io/schemas/nanobaselabs-com/nanobaselabs-com-line/)
+- [Props](https://apis.io/schemas/nanobaselabs-com/nanobaselabs-com-props/)
+- [Sources](https://apis.io/schemas/nanobaselabs-com/nanobaselabs-com-sources/)
+- [Usage](https://apis.io/schemas/nanobaselabs-com/nanobaselabs-com-usage/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Nanobaselabs Com Context](https://apis.io/jsonld/nanobaselabs-com/nanobaselabs-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [NanoBase™ API Rules](https://apis.io/rules/nanobaselabs-com/nanobaselabs-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [NanoBase™ Authentication](https://apis.io/security/nanobaselabs-com/nanobaselabs-com-authentication/)
+- [NanoBase™ Domain Security](https://apis.io/security/nanobaselabs-com/nanobaselabs-com-domain-security/)
+- [NanoBase™ Vulnerability Disclosure](https://apis.io/security/nanobaselabs-com/nanobaselabs-com-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [NanoBase™ Plans Pricing](https://apis.io/plans/nanobaselabs-com/nanobaselabs-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://nanobaselabs.com/)
+- [Pricing](https://api.nanobaselabs.com/plans)
+- [Terms of service](https://api.nanobaselabs.com/terms)
+- [Privacy policy](https://api.nanobaselabs.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 52.2** — developing · rubric 0.27.0 · scored 2026-11-19
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 56.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 18.3 |
+| Access clarity | 73.2 |
+
+**Agent readiness 54.3** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/nanobaselabs-com/](https://apis.io/providers/nanobaselabs-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for NanoBase™: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/nanobaselabs-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
